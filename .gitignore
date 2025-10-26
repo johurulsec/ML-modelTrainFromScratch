@@ -1,0 +1,5 @@
+# Ignore all JPG images
+*.jpg
+
+# (Optional) also ignore JPEG extensions
+*.jpeg
