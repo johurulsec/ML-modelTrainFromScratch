@@ -1,6 +1,9 @@
 # Ignore all JPG png images
 *.jpg
+*.JPG
 *.png
+*.PNG
 
 # (Optional) also ignore JPEG extensions
 *.jpeg
+*.JPEG
